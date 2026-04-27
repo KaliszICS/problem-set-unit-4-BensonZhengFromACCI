@@ -22,7 +22,8 @@ public class ProblemSet {
 		do {
 			System.out.println("\nWelcome to high or low guessing game! \n");
 			System.out.print("How many round would you like to play?: ");
-			roundsNum = input.nextInt();
+			roundsNum = input.nextInt(); 
+			System.out.println("What is the range you would like to play in?");
 		}
 		/// validates positive # of rounds
 		while (roundsNum < 1);
