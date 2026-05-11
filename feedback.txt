@@ -1,0 +1,12 @@
+K(30%): 95
+I(30%): 85
+C(10%): 95
+A(30%): 90
+89.5% of 90 - 80.55%
+
+Your input should reask if they don't put an integer, not crash.
+Use functions to deal with nesting too much.  You're way too far in the most nested area.
+Otherwise good work.
+Also use variables so you don't have too many print statements doing the same thing.
+Make sure you have a full final message for their score.
+Comments can be a little bit more specific.
